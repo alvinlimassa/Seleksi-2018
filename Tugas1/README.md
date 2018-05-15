@@ -62,10 +62,10 @@ run: # run your binary
 }
 ```
 ### Screenshot
-![](screenshots/prosespengambilandata.png)
-![](screenshots/prosespengambilandata1.png)
-![](screenshots/daftarnegara.png)
-![](screenshots/datanegara.png)
+![](screenshots/prosespengambilandata.PNG)
+![](screenshots/prosespengambilandata1.PNG)
+![](screenshots/daftarnegara.PNG)
+![](screenshots/datanegara.PNG)
 
 ### Reference 
 ```
