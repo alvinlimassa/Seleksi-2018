@@ -60,6 +60,13 @@ run: # run your binary
             "kabulacs@state.gov"
         ]
 }
+
+### Screenshot
+```
+![](screenshots/proses pengambilan data.png)
+![](screenshots/proses pengambilan data 1.png)
+![](screenshots/daftarnegara.png)
+![](screenshots/datanegara.png)
 ```
 ### Reference 
 ```
