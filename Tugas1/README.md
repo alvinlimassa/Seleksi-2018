@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <br>
-  Data Scraping
+  Passport Data Scraping
   <br>
   <br>
 </h2>
@@ -26,7 +26,7 @@ Program yang dibuat akan melakukan pengambilan data pada web https://travel.stat
 
 5. Peserta juga diminta untuk membuat Makefile sesuai template yang disediakan, sehingga program dengan gampang di-_build_, di-_run_, dan di-_clean_
 
-``` Makefile
+```Makefile
 all: clean build run
 
 clean: # remove data and binary folder
@@ -34,10 +34,15 @@ clean: # remove data and binary folder
 build: # compile to binary (if you use interpreter, then do not implement it)
 
 run: # run your binary
-
+```
 ### How to use
-
+```
+1. Pastikan Python terinstall pada komputer anda
+2. Jalankan make / make run untuk mengambil data awal
+3. Data yang diambil akan tersimpan pada folder data
+```
 ### JSON Structure
+```
 {
         "Nama Negara": "Afghanistan",
         "PASSPORT VALIDITY:": "Must be valid for six months at time of entry",
@@ -55,14 +60,17 @@ run: # run your binary
             "kabulacs@state.gov"
         ]
 }
-
+```
 ### Reference 
+```
 - urlopen
 - BeautifulSoup
 - time
 - json
+```
 
 ### Author
+```
 Alvin Limassa 13516039
 ```
 
