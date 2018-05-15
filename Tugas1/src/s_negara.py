@@ -15,11 +15,13 @@ def scrape_item(url):
     try:
         page = urlopen(url).read()
     except:
-        print("MaskExp ERROR!!!")
+        # print("MaskExp ERROR!!!")
         return {}
     # parse page
     soup = BeautifulSoup(page,'html.parser')
-    
+
+    name = soup.find("title").text
+
     # mencari data yang diperlukan
     container_box = soup.findAll("div",{"class":"tsg-rwd-qf-box"})
 
@@ -45,6 +47,7 @@ def scrape_item(url):
             c_alamat = []
             print("Alamat Kosong")
     item = {
+        "Nama Negara" : name,
         t_title[0] : t_data[0],
         t_title[1] : t_data[1],
         t_title[2] : t_data[2],
@@ -68,16 +71,21 @@ if __name__ == "__main__":
     container_listNegara = section_namaNegara[1].findAll("p",{})
     i1 = 0
     count = 0
+    hasilAkhir = []
     print("Starting process...")
     while i1 < len(container_listNegara):
         # print(section_namaNegara[1].findAll("p",{})[i1].text.strip())
         nama_negara = section_namaNegara[1].findAll("p",{})[i1].text.strip()
         url = url_mainpage + "/" + nama_negara.replace(" ","") + '.html'
-        url_json = "C:/Users/alvin limassa/Documents/GitHub/Seleksi-2018/Tugas1/data/" + nama_negara + ".json"
         hasil = scrape_item(url)
-        with open(url_json,"w") as f:
-            json.dump(hasil,f,indent=4)
+        if hasil != {}:
+            hasilAkhir.append(hasil)
         time.sleep(3)
         count+=1
         print("Progress done (" + str(count) + "/" + str(len(container_listNegara)) + ")")
         i1+=1
+
+    url_json = "C:/Users/alvin limassa/Documents/GitHub/Seleksi-2018/Tugas1/data/SemuaNegara.json"
+    with open(url_json,"w") as f:
+        json.dump(hasilAkhir,f,indent=4)
+    print("DONE!!!!")
