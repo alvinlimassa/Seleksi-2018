@@ -12,7 +12,8 @@
   <br>
 </h2>
 
-
+### Description
+Program yang dibuat akan melakukan pengambilan data pada web https://travel.state.gov untuk mengetahui syarat-syarat tertentu untuk berkunjung ke negara tertentu, pada tugas ini diambil contoh negara Amerika karena memiliki data yang sangat lengkap untuk diambil pada websitenya.
 ### Specifications
 
 1. Lakukan data scraping dari sebuah laman web untuk memeroleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
@@ -34,38 +35,35 @@ build: # compile to binary (if you use interpreter, then do not implement it)
 
 run: # run your binary
 
-```
+### How to use
 
-6. Deadline pengumpulan tugas adalah __15 Mei 2018 Pukul 23.59__
+### JSON Structure
+{
+        "Nama Negara": "Afghanistan",
+        "PASSPORT VALIDITY:": "Must be valid for six months at time of entry",
+        "BLANK PASSPORT PAGES:": "One page required for entry stamp",
+        "TOURIST VISA REQUIRED:": "Yes",
+        "VACCINATIONS:": "Polio vaccination up to 1 year before travel is recommended. See our Polio Fact Sheet",
+        "CURRENCY RESTRICTIONS FOR ENTRY:": "$20,000",
+        "CURRENCY RESTRICTIONS FOR EXIT:": "$20,000",
+        "ADDRESS": [
+            "Great Massoud (Airport) Road",
+            "Kabul, Afghanistan",
+            "Telephone: 0700-108-001 or 0700-108-002",
+            "Emergency After-Hours Telephone: 0700-108-001",
+            "Fax: (00 93) (0) 700-108-564 or (0)202-300-546",
+            "kabulacs@state.gov"
+        ]
+}
 
-7. Tugas 1 akan didemokan oleh masing-masing calon warga basdat
+### Reference 
+- urlopen
+- BeautifulSoup
+- time
+- json
 
-8. Demo tugas mencakup keseluruhan proses data scraping hingga memeroleh data sesuai dengan yang dikumpulkan pada Tugas 1
-
-9. Hasil data scraping ini nantinya akan digunakan sebagai bahan tugas analisis dan visualisasi data
-
-10. Sebagai referensi untuk mengenal data scraping, asisten menyediakan dokumen "Short Guidance To Data Scraping" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
-
-11. Tambahkan juga gitignore pada file atau folder yang tidak perlu di upload, __NB : BINARY TIDAK DIUPLOAD__
-
-12. JSON harus dinormalisasi dan harus di-_preprocessing_
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-13. Berikan README yang __WELL DOCUMENTED__ dengan cara __override__ file README.md ini. README harus memuat minimal konten :
-```
-- Description
-- Specification
-- How to use
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+### Author
+Alvin Limassa 13516039
 ```
 
 <h1 align="center">
