@@ -1,0 +1,882 @@
+[
+    {
+        "no": 1,
+        "nama": "Afghanistan"
+    },
+    {
+        "no": 2,
+        "nama": "Albania"
+    },
+    {
+        "no": 3,
+        "nama": "Algeria"
+    },
+    {
+        "no": 4,
+        "nama": "Andorra"
+    },
+    {
+        "no": 5,
+        "nama": "Angola"
+    },
+    {
+        "no": 6,
+        "nama": "Anguilla"
+    },
+    {
+        "no": 7,
+        "nama": "Antarctica"
+    },
+    {
+        "no": 8,
+        "nama": "Antigua and Barbuda"
+    },
+    {
+        "no": 9,
+        "nama": "Argentina"
+    },
+    {
+        "no": 10,
+        "nama": "Armenia"
+    },
+    {
+        "no": 11,
+        "nama": "Aruba"
+    },
+    {
+        "no": 12,
+        "nama": "Australia"
+    },
+    {
+        "no": 13,
+        "nama": "Austria"
+    },
+    {
+        "no": 14,
+        "nama": "Azerbaijan"
+    },
+    {
+        "no": 15,
+        "nama": "Bahrain"
+    },
+    {
+        "no": 16,
+        "nama": "Bangladesh"
+    },
+    {
+        "no": 17,
+        "nama": "Barbados"
+    },
+    {
+        "no": 18,
+        "nama": "Belarus"
+    },
+    {
+        "no": 19,
+        "nama": "Belgium"
+    },
+    {
+        "no": 20,
+        "nama": "Belize"
+    },
+    {
+        "no": 21,
+        "nama": "Benin"
+    },
+    {
+        "no": 22,
+        "nama": "Bermuda"
+    },
+    {
+        "no": 23,
+        "nama": "Bhutan"
+    },
+    {
+        "no": 24,
+        "nama": "Bolivia"
+    },
+    {
+        "no": 25,
+        "nama": "Bonaire, Sint Eustatius, and Saba"
+    },
+    {
+        "no": 26,
+        "nama": "Bosnia and Herzegovina"
+    },
+    {
+        "no": 27,
+        "nama": "Botswana"
+    },
+    {
+        "no": 28,
+        "nama": "Brazil"
+    },
+    {
+        "no": 29,
+        "nama": "British Virgin Islands"
+    },
+    {
+        "no": 30,
+        "nama": "Brunei"
+    },
+    {
+        "no": 31,
+        "nama": "Bulgaria"
+    },
+    {
+        "no": 32,
+        "nama": "Burkina Faso"
+    },
+    {
+        "no": 33,
+        "nama": "Burma (Myanmar)"
+    },
+    {
+        "no": 34,
+        "nama": "Burundi"
+    },
+    {
+        "no": 35,
+        "nama": "Cabo Verde"
+    },
+    {
+        "no": 36,
+        "nama": "Cambodia"
+    },
+    {
+        "no": 37,
+        "nama": "Cameroon"
+    },
+    {
+        "no": 38,
+        "nama": "Canada"
+    },
+    {
+        "no": 39,
+        "nama": "Cayman Islands"
+    },
+    {
+        "no": 40,
+        "nama": "Central African Republic"
+    },
+    {
+        "no": 41,
+        "nama": "Chad"
+    },
+    {
+        "no": 42,
+        "nama": "Chile"
+    },
+    {
+        "no": 43,
+        "nama": "China"
+    },
+    {
+        "no": 44,
+        "nama": "Colombia"
+    },
+    {
+        "no": 45,
+        "nama": "Comoros"
+    },
+    {
+        "no": 46,
+        "nama": "Costa Rica"
+    },
+    {
+        "no": 47,
+        "nama": "Cote d Ivoire"
+    },
+    {
+        "no": 48,
+        "nama": "Croatia"
+    },
+    {
+        "no": 49,
+        "nama": "Cuba"
+    },
+    {
+        "no": 50,
+        "nama": "Cura\u00e7ao"
+    },
+    {
+        "no": 51,
+        "nama": "Cyprus"
+    },
+    {
+        "no": 52,
+        "nama": "Czech Republic"
+    },
+    {
+        "no": 53,
+        "nama": "Democratic Republic of the Congo"
+    },
+    {
+        "no": 54,
+        "nama": "Denmark"
+    },
+    {
+        "no": 55,
+        "nama": "Djibouti"
+    },
+    {
+        "no": 56,
+        "nama": "Dominica"
+    },
+    {
+        "no": 57,
+        "nama": "Dominican Republic"
+    },
+    {
+        "no": 58,
+        "nama": "Ecuador"
+    },
+    {
+        "no": 59,
+        "nama": "Egypt"
+    },
+    {
+        "no": 60,
+        "nama": "El Salvador"
+    },
+    {
+        "no": 61,
+        "nama": "Equatorial Guinea"
+    },
+    {
+        "no": 62,
+        "nama": "Eritrea"
+    },
+    {
+        "no": 63,
+        "nama": "Estonia"
+    },
+    {
+        "no": 64,
+        "nama": "Ethiopia"
+    },
+    {
+        "no": 65,
+        "nama": "Falkland Islands"
+    },
+    {
+        "no": 66,
+        "nama": "Fiji"
+    },
+    {
+        "no": 67,
+        "nama": "Finland"
+    },
+    {
+        "no": 68,
+        "nama": "France"
+    },
+    {
+        "no": 69,
+        "nama": "French Guiana"
+    },
+    {
+        "no": 70,
+        "nama": "French Polynesia"
+    },
+    {
+        "no": 71,
+        "nama": "French West Indies"
+    },
+    {
+        "no": 72,
+        "nama": "Gabon"
+    },
+    {
+        "no": 73,
+        "nama": "Gaza"
+    },
+    {
+        "no": 74,
+        "nama": "Georgia"
+    },
+    {
+        "no": 75,
+        "nama": "Germany"
+    },
+    {
+        "no": 76,
+        "nama": "Ghana"
+    },
+    {
+        "no": 77,
+        "nama": "Gilbraltar"
+    },
+    {
+        "no": 78,
+        "nama": "Greece"
+    },
+    {
+        "no": 79,
+        "nama": "Grenada"
+    },
+    {
+        "no": 80,
+        "nama": "Guadeloupe, Martinique, Saint Martin, and Saint Barth\u00e9lemy (French West Indies)"
+    },
+    {
+        "no": 81,
+        "nama": "Guatemala"
+    },
+    {
+        "no": 82,
+        "nama": "Guinea"
+    },
+    {
+        "no": 83,
+        "nama": "Guinea-Bissau"
+    },
+    {
+        "no": 84,
+        "nama": "Guyana"
+    },
+    {
+        "no": 85,
+        "nama": "Haiti"
+    },
+    {
+        "no": 86,
+        "nama": "Honduras"
+    },
+    {
+        "no": 87,
+        "nama": "Hong Kong"
+    },
+    {
+        "no": 88,
+        "nama": "Hungary"
+    },
+    {
+        "no": 89,
+        "nama": "Iceland"
+    },
+    {
+        "no": 90,
+        "nama": "India"
+    },
+    {
+        "no": 91,
+        "nama": "Indonesia"
+    },
+    {
+        "no": 92,
+        "nama": "Iran"
+    },
+    {
+        "no": 93,
+        "nama": "Iraq"
+    },
+    {
+        "no": 94,
+        "nama": "Ireland"
+    },
+    {
+        "no": 95,
+        "nama": "Isle of Man"
+    },
+    {
+        "no": 96,
+        "nama": "Israel"
+    },
+    {
+        "no": 97,
+        "nama": "Israel, The West Bank and Gaza"
+    },
+    {
+        "no": 98,
+        "nama": "Italy"
+    },
+    {
+        "no": 99,
+        "nama": "Jamaica"
+    },
+    {
+        "no": 100,
+        "nama": "Japan"
+    },
+    {
+        "no": 101,
+        "nama": "Jerusalem"
+    },
+    {
+        "no": 102,
+        "nama": "Jordan"
+    },
+    {
+        "no": 103,
+        "nama": "Kazakhstan"
+    },
+    {
+        "no": 104,
+        "nama": "Kenya"
+    },
+    {
+        "no": 105,
+        "nama": "Kiribati"
+    },
+    {
+        "no": 106,
+        "nama": "Kosovo"
+    },
+    {
+        "no": 107,
+        "nama": "Kuwait"
+    },
+    {
+        "no": 108,
+        "nama": "Kyrgyzstan"
+    },
+    {
+        "no": 109,
+        "nama": "Laos"
+    },
+    {
+        "no": 110,
+        "nama": "Latvia"
+    },
+    {
+        "no": 111,
+        "nama": "Lebanon"
+    },
+    {
+        "no": 112,
+        "nama": "Lesotho"
+    },
+    {
+        "no": 113,
+        "nama": "Liberia"
+    },
+    {
+        "no": 114,
+        "nama": "Libya"
+    },
+    {
+        "no": 115,
+        "nama": "Liechtenstein"
+    },
+    {
+        "no": 116,
+        "nama": "Lithuania"
+    },
+    {
+        "no": 117,
+        "nama": "Luxembourg"
+    },
+    {
+        "no": 118,
+        "nama": "Macau"
+    },
+    {
+        "no": 119,
+        "nama": "Macedonia"
+    },
+    {
+        "no": 120,
+        "nama": "Madagascar"
+    },
+    {
+        "no": 121,
+        "nama": "Malawi"
+    },
+    {
+        "no": 122,
+        "nama": "Malaysia"
+    },
+    {
+        "no": 123,
+        "nama": "Maldives"
+    },
+    {
+        "no": 124,
+        "nama": "Mali"
+    },
+    {
+        "no": 125,
+        "nama": "Malta"
+    },
+    {
+        "no": 126,
+        "nama": "Marshall Islands"
+    },
+    {
+        "no": 127,
+        "nama": "Mauritania"
+    },
+    {
+        "no": 128,
+        "nama": "Mauritius"
+    },
+    {
+        "no": 129,
+        "nama": "Mexico"
+    },
+    {
+        "no": 130,
+        "nama": "Micronesia"
+    },
+    {
+        "no": 131,
+        "nama": "Moldova"
+    },
+    {
+        "no": 132,
+        "nama": "Monaco"
+    },
+    {
+        "no": 133,
+        "nama": "Mongolia"
+    },
+    {
+        "no": 134,
+        "nama": "Montenegro"
+    },
+    {
+        "no": 135,
+        "nama": "Montserrat"
+    },
+    {
+        "no": 136,
+        "nama": "Morocco"
+    },
+    {
+        "no": 137,
+        "nama": "Mozambique"
+    },
+    {
+        "no": 138,
+        "nama": "Namibia"
+    },
+    {
+        "no": 139,
+        "nama": "Nauru"
+    },
+    {
+        "no": 140,
+        "nama": "Nepal"
+    },
+    {
+        "no": 141,
+        "nama": "Netherlands"
+    },
+    {
+        "no": 142,
+        "nama": "New Caledonia"
+    },
+    {
+        "no": 143,
+        "nama": "New Zealand"
+    },
+    {
+        "no": 144,
+        "nama": "Nicaragua"
+    },
+    {
+        "no": 145,
+        "nama": "Niger"
+    },
+    {
+        "no": 146,
+        "nama": "Nigeria"
+    },
+    {
+        "no": 147,
+        "nama": "North Korea (Democratic People's Republic of Korea)"
+    },
+    {
+        "no": 148,
+        "nama": "Norway"
+    },
+    {
+        "no": 149,
+        "nama": "Oman"
+    },
+    {
+        "no": 150,
+        "nama": "Pakistan"
+    },
+    {
+        "no": 151,
+        "nama": "Palau"
+    },
+    {
+        "no": 152,
+        "nama": "Panama"
+    },
+    {
+        "no": 153,
+        "nama": "Papua New Guinea"
+    },
+    {
+        "no": 154,
+        "nama": "Paraguay"
+    },
+    {
+        "no": 155,
+        "nama": "Peru"
+    },
+    {
+        "no": 156,
+        "nama": "Philippines"
+    },
+    {
+        "no": 157,
+        "nama": "Poland"
+    },
+    {
+        "no": 158,
+        "nama": "Portugal"
+    },
+    {
+        "no": 159,
+        "nama": "Qatar"
+    },
+    {
+        "no": 160,
+        "nama": "Republic of the Congo"
+    },
+    {
+        "no": 161,
+        "nama": "Romania"
+    },
+    {
+        "no": 162,
+        "nama": "Russia"
+    },
+    {
+        "no": 163,
+        "nama": "Rwanda"
+    },
+    {
+        "no": 164,
+        "nama": "Saint Kitts and Nevis"
+    },
+    {
+        "no": 165,
+        "nama": "Saint Lucia"
+    },
+    {
+        "no": 166,
+        "nama": "Saint Vincent and the Grenadines"
+    },
+    {
+        "no": 167,
+        "nama": "Samoa"
+    },
+    {
+        "no": 168,
+        "nama": "San Marino"
+    },
+    {
+        "no": 169,
+        "nama": "Sao Tome and Principe"
+    },
+    {
+        "no": 170,
+        "nama": "Saudi Arabia"
+    },
+    {
+        "no": 171,
+        "nama": "Senegal"
+    },
+    {
+        "no": 172,
+        "nama": "Serbia"
+    },
+    {
+        "no": 173,
+        "nama": "Seychelles"
+    },
+    {
+        "no": 174,
+        "nama": "Sierra Leone"
+    },
+    {
+        "no": 175,
+        "nama": "Singapore"
+    },
+    {
+        "no": 176,
+        "nama": "Sint Maarten"
+    },
+    {
+        "no": 177,
+        "nama": "Slovakia"
+    },
+    {
+        "no": 178,
+        "nama": "Slovenia"
+    },
+    {
+        "no": 179,
+        "nama": "Solomon Islands"
+    },
+    {
+        "no": 180,
+        "nama": "Somalia"
+    },
+    {
+        "no": 181,
+        "nama": "South Africa"
+    },
+    {
+        "no": 182,
+        "nama": "South Korea"
+    },
+    {
+        "no": 183,
+        "nama": "South Sudan"
+    },
+    {
+        "no": 184,
+        "nama": "Spain"
+    },
+    {
+        "no": 185,
+        "nama": "Sri Lanka"
+    },
+    {
+        "no": 186,
+        "nama": "Sudan"
+    },
+    {
+        "no": 187,
+        "nama": "Suriname"
+    },
+    {
+        "no": 188,
+        "nama": "Swaziland"
+    },
+    {
+        "no": 189,
+        "nama": "Sweden"
+    },
+    {
+        "no": 190,
+        "nama": "Switzerland"
+    },
+    {
+        "no": 191,
+        "nama": "Syria"
+    },
+    {
+        "no": 192,
+        "nama": "Taiwan"
+    },
+    {
+        "no": 193,
+        "nama": "Tajikistan"
+    },
+    {
+        "no": 194,
+        "nama": "Tanzania"
+    },
+    {
+        "no": 195,
+        "nama": "Thailand"
+    },
+    {
+        "no": 196,
+        "nama": "The Bahamas"
+    },
+    {
+        "no": 197,
+        "nama": "The Gambia"
+    },
+    {
+        "no": 198,
+        "nama": "Timor-Leste"
+    },
+    {
+        "no": 199,
+        "nama": "Togo"
+    },
+    {
+        "no": 200,
+        "nama": "Tonga"
+    },
+    {
+        "no": 201,
+        "nama": "Trinidad and Tobago"
+    },
+    {
+        "no": 202,
+        "nama": "Tunisia"
+    },
+    {
+        "no": 203,
+        "nama": "Turkey"
+    },
+    {
+        "no": 204,
+        "nama": "Turkmenistan"
+    },
+    {
+        "no": 205,
+        "nama": "Turks and Caicos Islands"
+    },
+    {
+        "no": 206,
+        "nama": "Tuvalu"
+    },
+    {
+        "no": 207,
+        "nama": "Uganda"
+    },
+    {
+        "no": 208,
+        "nama": "Ukraine"
+    },
+    {
+        "no": 209,
+        "nama": "United Arab Emirates"
+    },
+    {
+        "no": 210,
+        "nama": "United Kingdom"
+    },
+    {
+        "no": 211,
+        "nama": "Uruguay"
+    },
+    {
+        "no": 212,
+        "nama": "Uzbekistan"
+    },
+    {
+        "no": 213,
+        "nama": "Vanuatu"
+    },
+    {
+        "no": 214,
+        "nama": "Vatican City (Holy See)"
+    },
+    {
+        "no": 215,
+        "nama": "Venezuela"
+    },
+    {
+        "no": 216,
+        "nama": "Vietnam"
+    },
+    {
+        "no": 217,
+        "nama": "West Bank"
+    },
+    {
+        "no": 218,
+        "nama": "Yemen"
+    },
+    {
+        "no": 219,
+        "nama": "Zambia"
+    },
+    {
+        "no": 220,
+        "nama": "Zimbabwe"
+    }
+]
