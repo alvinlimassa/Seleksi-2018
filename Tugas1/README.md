@@ -62,12 +62,11 @@ run: # run your binary
 }
 ```
 ### Screenshot
-```
 ![](screenshots/prosespengambilandata.png)
 ![](screenshots/prosespengambilandata1.png)
 ![](screenshots/daftarnegara.png)
 ![](screenshots/datanegara.png)
-```
+
 ### Reference 
 ```
 - urlopen
